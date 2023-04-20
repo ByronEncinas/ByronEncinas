@@ -1,7 +1,7 @@
 ### Hello, this is Byron Encinas Profile!
 
 I'm a physicist with the intention to navigate the software engineering path.
-Here I shall put to test my oewn knowledge of several lagnauges through projects.
+Here I shall put to test my own knowledge of several lagnauges through projects.
 
 #### My main line of focus are the following languages:
 
