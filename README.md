@@ -11,6 +11,7 @@ My primary focus encompasses an array of languages:
 - **Wolfram Mathematica**: Exploring the power of Mathematica for mathematical and technical computing challenges. 🔬
 - **Python**: Employing Python's versatility for data analysis, automation, and algorithmic tasks. 🐍
 - **Ruby**: Delving into Ruby to expand my horizons in elegant and expressive programming. 💎
+- **LaTeX**: Proficient in using LaTeX markup language for typesetting complex documents, particularly those with mathematical content. 📝
 
 ## Databases
 
@@ -29,7 +30,7 @@ My journey also encompasses the following framework:
 
 I have a knack for working across different operating systems:
 
-- **Linux Distros**: Proficient in navigating various Linux distributions, harnessing their power for development and exploration. 🐧
+- **Linux Distros (Ubuntu/Debian)**: Proficient in navigating various Linux distributions, harnessing their power for development and exploration. 🐧
 - **Windows 10 & 11**: Adept at working within the Windows ecosystem, from legacy systems to the latest iterations. 🪟
 
 ## Text Editors
@@ -45,6 +46,6 @@ I work efficiently with a range of text editors:
 Feel free to connect with me on:
 - [LinkedIn](https://www.linkedin.com/in/byron-encinas-velazquez/)
 - [Instagram](https://www.instagram.com/byron.en.ve/)
-- Email me at [byron_encinas@outlook.com](mailto:byron_encinas@outlook.com)
+- [Email](mailto:byron_encinas@outlook.com)
 
-Let's explore the exciting intersection of physics and software engineering together!
+Currently enrolled in Master's Program in Physics!
