@@ -25,4 +25,12 @@ My journey also encompasses the following framework:
 
 - **Ruby on Rails**: Exploring the Rails framework to develop dynamic and feature-rich web applications. 🚄
 
+## Operating Systems
+
+I have a knack for working across different operating systems:
+
+- **Linux Distros**: Proficient in navigating various Linux distributions, harnessing their power for development and exploration. 🐧
+- **Windows 10 & 11**: Adept at working within the Windows ecosystem, from legacy systems to the latest iterations. 🪟
+
 Feel free to join me on this exciting venture, where the realms of physics and software engineering intertwine seamlessly.
+
