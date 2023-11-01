@@ -1,6 +1,10 @@
 # Byron Encinas Profile
 
-Hi, I'm Byron—a physicist diving into software engineering. My focus includes:
+Hi, I'm Byron. My focus includes:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fortran,bash,python,ruby,latex" alt="Skills">
+</p>
 
 - **Fortran**: Precision for physics computations. 🧮
 - **Bash**: Task automation, workflow efficiency. 🛠️
@@ -8,20 +12,22 @@ Hi, I'm Byron—a physicist diving into software engineering. My focus includes:
 - **Ruby**: Exploring elegance in programming. 💎
 - **LaTeX**: Typesetting complex documents. 📝
 
-![Skills](https://skillicons.dev/icons?i=fortran,bash,python,ruby,latex)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sqlite,postgresql" alt="Databases">
+</p>
 
 ## Databases
 
 - **PostgreSQL**: Efficient structured data management. 🐘
 - **SQLite**: Lightweight local database use. 📁
 
-![Databases](https://skillicons.dev/icons?i=sqlite,postgresql)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rails,tailwind" alt="Frameworks">
+</p>
 
 ## Frameworks
 
 - **Ruby on Rails + Tailwind-CSS**: Exploring dynamic web app development. 🚄
-
-![Frameworks](https://skillicons.dev/icons?i=rails,tailwind)
 
 ## Contacts
 
@@ -33,4 +39,6 @@ Connect with me on:
 
 **Master's Program in Physics**
 
-![Activity Graph](https://github-readme-stats.vercel.app/api?username=ByronEncinas&show_icons=true&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ByronEncinas&show_icons=true&hide_border=true" alt="Activity Graph">
+</p>
