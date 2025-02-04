@@ -1,33 +1,22 @@
 # Byron Encinas Profile
 
-Hi, I'm Byron. My focus includes:
+Physicist interested in the study of interstellar plasmas, star formation, fusion and mathematical physics. Interested in writing code that can be useful to the scientific community.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fortran,bash,python,ruby,latex" alt="Skills">
+  <img src="https://skillicons.dev/icons?i=fortran,bash,python" alt="Skills">
 </p>
 
 - **Fortran**: Precision for physics computations. 🧮
 - **Bash**: Task automation, workflow efficiency. 🛠️
 - **Python**: Versatility in data analysis and automation. 🐍
-- **Ruby**: Exploring elegance in programming. 💎
-- **LaTeX**: Typesetting complex documents. 📝
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sqlite,postgresql" alt="Databases">
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="Databases">
 </p>
 
 ## Databases
 
-- **PostgreSQL**: Efficient structured data management. 🐘
-- **SQLite**: Lightweight local database use. 📁
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=rails,tailwind" alt="Frameworks">
-</p>
-
-## Frameworks
-
-- **Ruby on Rails + Tailwind-CSS**: Exploring dynamic web app development. 🚄
+- **PostgreSQL**: Powerfull and efficient databases (rusty)
 
 ## Contacts
 
