@@ -1,6 +1,6 @@
-# Byron Encinas Profile
+# Hello! I'm Byron Encinas-Velazquez
 
-Physicist interested in the study of interstellar plasmas, star formation, fusion and mathematical physics. Interested in writing code that can be useful to the scientific community.
+Physicist interested in the study of interstellar plasmas, star formation, fusion and mathematical physics. Interested in writing code that can be useful to the scientific community. 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=fortran,bash,python" alt="Skills">
@@ -9,14 +9,6 @@ Physicist interested in the study of interstellar plasmas, star formation, fusio
 - **Fortran**: Precision for physics computations. 🧮
 - **Bash**: Task automation, workflow efficiency. 🛠️
 - **Python**: Versatility in data analysis and automation. 🐍
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql" alt="Databases">
-</p>
-
-## Databases
-
-- **PostgreSQL**: Powerfull and efficient databases (rusty)
 
 ## Contacts
 
