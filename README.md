@@ -3,7 +3,7 @@
 Physicist interested in the study of interstellar plasmas, star formation, fusion and mathematical physics. Interested in writing code that can be useful to the scientific community. 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fortran,bash,python" alt="Skills">
+  <img src="https://skillicons.dev/icons?i=python,bash,fortran" alt="Skills">
 </p>
 
 - **Fortran**: Precision for physics computations. 🧮
@@ -15,7 +15,6 @@ Physicist interested in the study of interstellar plasmas, star formation, fusio
 Connect with me on:
 
 - [LinkedIn](https://www.linkedin.com/in/byron-encinas-velazquez/)
-- [Instagram](https://www.instagram.com/byron.en.ve/)
 - [Email](mailto:byron_encinas@outlook.com)
 
 **Master's Program in Physics**
