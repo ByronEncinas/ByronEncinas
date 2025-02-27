@@ -1,4 +1,4 @@
-# Hello! I'm Byron Encinas-Velazquez
+# Hello! I'm Byron Encinas Velazquez
 
 Physicist interested in the study of interstellar plasmas, star formation, fusion and mathematical physics. Interested in writing code that can be useful to the scientific community. 
 
