@@ -4,7 +4,7 @@ I'm Byron J. Encinas Velázquez.
 Physicist interested in the study of interstellar plasmas, star formation, fusion and mathematical physics. Interested in writing code that can be useful to the scientific community. 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,fortran,rust" alt="Skills">
+  <img src="https://skillicons.dev/icons?i=python,bash,fortran,rust,julia" alt="Skills">
 </p>
 
 - **Fortran**: Precision for physics computations. 
